@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6659372207",
+    "project_id": "smart-helmet-45923",
+    "storage_bucket": "smart-helmet-45923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6659372207:android:a1a6f5eab5926805be505a",
+        "android_client_info": {
+          "package_name": "com.example.smart_helmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6659372207-kc0532es7umi0euglnsdk00qtod0rdc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSFRzJLvPsKPVlz_4f79bYFjt4SPLLPZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6659372207-kc0532es7umi0euglnsdk00qtod0rdc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
